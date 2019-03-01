@@ -1,8 +1,8 @@
 # ----
 # Site
 
-title: Hydra Template
-url: "https://proud-alligator.cloudvent.net"
+title: YSR Traders
+url: "https:YSRTraders.com"
 baseurl:
 google_analytics_key:
 google_maps_javascript_api_key:
@@ -10,20 +10,20 @@ disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Product marketing template for Jekyll.
+description: Best Online Platform for Gold Trading
 author:
   name:
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name: Hydra Template
+  name: YSR Traders
   links:
-    - https://github.com/CloudCannon/hydra-jekyll-template
+    - 
 
 # -----
 # Build
 
-timezone: Etc/UTC
+timezone: Etc/GMT
 
 collections:
   staff_members:
